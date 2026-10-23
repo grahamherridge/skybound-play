@@ -2,7 +2,9 @@
 
 [Play Skybound](https://grahamherridge.github.io/skybound-play/)
 
-A little jetpack courier, seven places to fly and live flight tuning. Fresh loads open Big sky. Choose Long haul or High peaks for an even bigger adventure.
+A little jetpack courier, eight places to fly and live flight tuning. Fresh loads open Big sky. Choose The High Drop for one ascent/descent course with Explorer, Collector and Sprint objectives, or Long haul/High peaks for a bigger adventure.
+
+Flight instruments starts off; enable it in Flight controls for numerical flight data. Objectives, timing, guidance and impact captions remain visible.
 
 The courier starts at 1.25x visual size, with scarf length 30 and responsiveness 20. Compare sizes in Flight controls > Courier animation lab. Physics retains the original collider; enlarged art can overlap ceilings and tight gaps.
 
