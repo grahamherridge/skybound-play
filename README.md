@@ -4,7 +4,9 @@
 
 A little jetpack courier, eight places to fly and live tuning. Fresh loads open Big sky.
 
-Stage 1 adds four cream-paper stamp designs, musical pickups, ink/paper bursts and airborne Flow rewards. In The High Drop choose Collector: collect 1-3 for SKYWARD EXPRESS, 4-6 for DOWNWARD EXPRESS, then settle on the balcony for GOLDEN ROUND TRIP (2,400 points). Landing or taking too long breaks only Flow. Level 2 offers one 900-point Flow chain per section. Retry rolls back unbanked rewards with stamps; no persistent currency or unlocks. Stamp sounds can be muted in Flight controls. Both Sprint timing challenges remain unchanged.
+The High Drop now has three distinct postal flights: Explorer needs no stamps; Collector needs six in sequence, with airborne Skyward/Downward Express chains, measured landing bonuses and Golden Round Trip (up to 2,700 points); Sprint needs any three of six and adds one second per missed stamp to its adjusted time. The original separate Stamp sprint keeps its rules.
+
+Arrive with missing postage and the courier tells you what is missing, guides you back and keeps your progress and clock running. Qualifying finishes receive a personalised postal receipt with instant retry/dismissal. Expressive dangling legs, stronger stamp outlines, musical pickups and bounded paper bursts are cosmetic. Significant Collector bonks interrupt only active Flow, preserving points. Stamp sounds can be muted in Flight controls. Level 2 keeps its checkpoint Flow chains.
 
 Choose The High Drop for fall, turn, catch: climb to the launch ledge, take the inside drop or catch shelves, turn right through the shared passage, then brake onto the little flagged balcony. Miss it and recover from the safe bay below. Explorer, Collector and Sprint share this canyon. Choose Long haul/High peaks for a bigger adventure.
 
