@@ -4,7 +4,7 @@
 
 A little jetpack courier, eight places to fly and live flight tuning. Fresh loads open Big sky. Choose The High Drop for one ascent/descent course with Explorer, Collector and Sprint objectives, or Long haul/High peaks for a bigger adventure.
 
-Flight instruments starts off; enable it in Flight controls for numerical flight data. Objectives, timing, guidance and impact captions remain visible.
+Flight instruments starts off; enable it in Flight controls for numerical flight data. Objectives, timing, guidance and impact captions remain visible. Bonks and landings pop in as outlined comic lettering and fade away; gentle landings get a softer treatment.
 
 The courier starts at 1.25x visual size, with scarf length 30 and responsiveness 20. Compare sizes in Flight controls > Courier animation lab. Physics retains the original collider; enlarged art can overlap ceilings and tight gaps.
 
