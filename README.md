@@ -2,12 +2,12 @@
 
 [Play Skybound](https://grahamherridge.github.io/skybound-play/)
 
-A little jetpack courier, eight places to fly and live flight tuning. Fresh loads open Big sky. Choose The High Drop for one ascent/descent course with Explorer, Collector and Sprint objectives, or Long haul/High peaks for a bigger adventure.
+A little jetpack courier, eight places to fly and live tuning. Fresh loads open Big sky.
 
-Flight instruments starts off; enable it in Flight controls for numerical flight data. Objectives, timing, guidance and impact captions remain visible. Bonks and landings pop in as outlined comic lettering and fade away; gentle landings get a softer treatment. Familiar favourites mix with CLONK!, WHUMP!, KERTHUNK! and other short reactions, with a rare dry aside after a very hard crash.
+Choose The High Drop for fall, turn, catch: climb to the launch ledge, take the inside drop or catch shelves, turn right through the shared passage, then brake onto the little flagged balcony. Miss it and recover from the safe bay below. Explorer, Collector and Sprint share this canyon. Choose Long haul/High peaks for a bigger adventure.
 
-The courier starts at 1.25x visual size, with scarf length 30 and responsiveness 20. Compare sizes in Flight controls > Courier animation lab. Physics retains the original collider; enlarged art can overlap ceilings and tight gaps.
+Click Start flying. A/D or arrows steer; hold Space for thrust, release to coast. R retries. Touch controls work too. Flight instruments starts off; enable it in Flight controls for numerical flight data. Objectives, timing, guidance and comic impact captions remain visible.
 
-Click Start flying. A/D or arrows steer; hold Space for thrust, release to coast. R retries the current section. Touch controls work too.
+The courier starts at 1.25x visual size, scarf length 30 and responsiveness 20. Compare sizes in Flight controls > Courier animation lab. The original physics collider is unchanged; enlarged art can overlap ceilings and tight gaps.
 
-This repository contains only the compiled static playable. No installation, account or download required.
+Only the compiled static playable is published here. No installation, account or download required.
