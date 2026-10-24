@@ -4,7 +4,7 @@ Play: https://grahamherridge.github.io/skybound-play/
 
 A/D or arrows steer; hold Space to thrust, release to coast; R retries. Touch controls are provided. Choose Lantern Reach / Collector to chase named postmarks and connected STACK x3 through x18. Breaking Flow keeps earned points and postmarks.
 
-Stunt Run now has travelling gold highlights along its dashed guiding flightline with arrows and a matching overview route. Open Tricks & how to fly them for explanations of the four moves, controls and STYLE; opening the guide pauses safely.
+Stunt Run now uses only travelling gold pulses for its guiding flightline, without arrows or background dashes, with a matching overview route. Open Tricks & how to fly them for explanations of the four moves, controls and STYLE; opening the guide pauses safely.
 
 Choose Stunt Show for unscored Explore or optional Stunt Run: genuine gap threads, near misses, late-burn saves and feather landings earn separate STYLE points and celebrations. A/D or arrows steer; hold Space to thrust; R retries. New Stunt Show calibration is 400/800/600/1500/2 only in that level; old defaults remain. Settle on the far-right final stage for an itemised receipt. Hook Turn/hover are deferred.
 
