@@ -17,3 +17,5 @@ Click Start flying. A/D or arrows steer; hold Space for thrust, release to coast
 The courier starts at 1.25x visual scale, scarf 30/20, Floaty steering 250 and thrust buildup on. Compare size in Courier animation lab. Collision stays 28 x 36: enlarged helmets can visibly overlap contact faces and tight gaps. Physical-device readability, sound balance and enjoyment need human play-testing.
 
 Only the compiled static playable is published here. No private source/history or infrastructure changes.
+
+Stage 1 foundations: brighter stamps and bounded POP bursts; Collected/Postmarked/Delivered language; heavy bolted solid signs versus stitched paper notices. Finish alerts last 5.5 seconds, with persistent objective guidance until departure or resolution. Geometry, physics, scoring and all nine worlds are preserved.
