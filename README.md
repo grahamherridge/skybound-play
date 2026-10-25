@@ -16,4 +16,4 @@ Compiled static playable only; development source/history remain private. No rem
 
 Open directly: https://grahamherridge.github.io/skybound-play/workshop/
 
-An isolated, unscored draft import experiment: real platforms/walls/stamps, live tuning, Retry, and JSON paste/file import/export. The homepage playable above is unchanged. No graphical editor or AI service is included. Source remains private.
+An isolated, unscored AI-authored Paperfall experiment with optional visual Edit / Fly. Select and drag existing platforms, walls and stamps; resize solids from the square corner. Undo / Revert, Pan and Fit / zoom support quick experiments. Pinch or Ctrl + scroll zooms, trackpad scroll pans. Fly resumes safely from the pilot at rest; R retries from START. Geometry edits reset local stamps, live tuning stays, and JSON import/export saves drafts. No new object creation or AI service. The homepage playable above is unchanged. Source remains private.
