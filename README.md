@@ -12,10 +12,18 @@ Choose Sandbox for Open Sky (free flight/dives), The Needle (precision with bypa
 
 Compiled static playable only; development source/history remain private. No remote assets, tracking, runtime dependencies or backend.
 
-## Paperfall Workshop experiment
+## Workshop experiments
 
 Open directly: https://grahamherridge.github.io/skybound-play/workshop/
 
 An isolated, unscored AI-authored Paperfall experiment with optional visual Edit / Fly. Select and drag existing platforms, walls and stamps; resize solids from the square corner. Undo / Revert, Pan and Fit / zoom support quick experiments. Pinch or Ctrl + scroll zooms, trackpad scroll pans. Fly resumes safely from the pilot at rest; R retries from START. Geometry edits reset local stamps, live tuning stays, and JSON import/export saves drafts. No new object creation or AI service. The homepage playable above is unchanged. Source remains private.
 
 Optional Playtest notes start off: capture bounded routes, real pickups/contacts, retries and timing with full draft/settings snapshots, locked pre-play predictions and a brief reaction. Copy or download evidence when you choose. Page memory only: no uploads, accounts, persistent tracking or AI service. Preserve captures before refresh.
+
+## New Workshop flights
+
+The Hollow Mile: https://grahamherridge.github.io/skybound-play/workshop/?experiment=hollow-mile
+
+Wrong-Way Post: https://grahamherridge.github.io/skybound-play/workshop/?experiment=wrong-way-post
+
+A connected exploration journey and a compact choose-your-order round through unlike approaches. Both open paused and use local400/800/600/1500/2 with buildup on. Click Fly, steer with A/D or arrows, hold Space for thrust, R retries. Select complete experiments inside Workshop; export edits before loading an original. Paperfall is unchanged. Real unordered pickups, no new scoring or fabricated rewards; optional pre-play predictions/capture are specific to the exact draft/settings. Fun remains for human play-testing.
