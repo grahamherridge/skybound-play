@@ -2,6 +2,16 @@
 
 Play: https://grahamherridge.github.io/skybound-play/
 
+## Living-world graphics experiment
+
+Play: https://grahamherridge.github.io/skybound-play/living-world/
+
+An offline, cosmetic graphics experiment with an orchard village and Sky Post facade
+in Big Sky, layered cloud banks, reactive plants and a moonlit harbour waterfront.
+Compiled from private PR #38 at `4ec06e6`; no source files are published. The main
+playable and Workshop keep their existing versions, including the homepage's newer
+Stunt Yard/gantry Hook Turn work. This preview is for judging the graphics.
+
 A/D or arrows steer; hold Space to thrust, release to coast; R retries. Touch controls are provided. Choose Lantern Reach / Collector to chase named postmarks and connected STACK x3 through x18. Breaking Flow keeps earned points and postmarks.
 
 Stunt Run now uses only travelling gold pulses for its guiding flightline, without arrows or background dashes, with a matching overview route. Open Tricks & how to fly them for explanations of the four moves, controls and STYLE; opening the guide pauses safely.
