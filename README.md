@@ -11,3 +11,9 @@ Choose Stunt Show for unscored Explore or optional Stunt Run: genuine gap thread
 Choose Sandbox for Open Sky (free flight/dives), The Needle (precision with bypasses), or The Ribbon (3/6/18 real stamp trails). Candidate A is Sandbox-only; global Floaty defaults are preserved. In Sandbox hold A/D + Space while using 1-5 to select gravity/thrust/steering/braking/drag, O/P to adjust. The in-game Tuning Deck offers A/B, Mark/Return, Copy Settings and a clearly labelled demo-only Toybox. Demo fireworks never award points. Scene switches retain tuning; re-arm resets only the local attempt. Existing story modes, stacked rewards, SWIFT POST, CLEAN AIR, arch bonuses, mute and reduced motion remain available.
 
 Compiled static playable only; development source/history remain private. No remote assets, tracking, runtime dependencies or backend.
+
+## Paperfall Workshop experiment
+
+Open directly: https://grahamherridge.github.io/skybound-play/workshop/
+
+An isolated, unscored draft import experiment: real platforms/walls/stamps, live tuning, Retry, and JSON paste/file import/export. The homepage playable above is unchanged. No graphical editor or AI service is included. Source remains private.
