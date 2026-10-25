@@ -2,11 +2,11 @@
 
 Play: https://grahamherridge.github.io/skybound-play/
 
-Choose **Big sky** for the complete vertical-world art pass: the Foldwood oak and wren, terraced postal village, suspended Skybridge exchange and dirigible, high clock beacon and a greenhouse Landing Garden. The original four-stage flight, all 16 stamps, checkpoints and physics are unchanged. Pause and reduced motion are supported.
+Choose **Big sky** for the simplified vertical-world play-test (source PR remains Draft): the Foldwood oak and wren, terraced postal village, suspended Skybridge exchange and dirigible, high clock beacon and a greenhouse Landing Garden. The original four-stage flight, all 16 stamps, checkpoints and physics are unchanged. Pause and reduced motion are supported.
 
 A/D or arrows steer; hold Space to thrust, release to coast; R retries. Touch controls are provided. Watch the wren for about ten seconds, approach gently, or swoop past and let it settle again.
 
-This release also retains the authored Perilous Parish flight, earlier living-world habitats and the existing selectable game modes. Compiled from private source revision `cdffec8c63b0a350aeff05d4a0db90d50b62fedf`. The main playable is the exact verified standalone HTML (SHA-256 `ae4aae01259c18c562f8130b2ac9376262db3e5d3fb16f43d065d93cd8d828eb`). Technical checks passed; Gray's verdict on this new art is pending.
+This release also retains the authored Perilous Parish flight, earlier living-world habitats and the existing selectable game modes. Compiled from private source revision `ef969b6 (simplified art; offline fallback 2dbd2b4)`. The main playable is the exact verified standalone HTML (SHA-256 `409bd8ce63f2dd7cc8f8a8c9f7008b6e710c182b26969f81e5e51839a3c313d9`). Technical checks passed; Gray's verdict on this new art is pending.
 
 ## Preserved experiments
 
