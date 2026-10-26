@@ -5,9 +5,9 @@ Play: https://grahamherridge.github.io/skybound-play/
 **Flight Experiments — isolated A/B preview:**
 [Auto-forward + Free Flight](https://grahamherridge.github.io/skybound-play/flight-experiments/) ·
 [Moving Camera + Original Controls](https://grahamherridge.github.io/skybound-play/flight-experiments/?course=camera).
-Choose Start flying. A uses hold/release thrust, slows into free flight at Tea Post, then resumes auto at the green departure gateway. B retains left/right/thrust against an independent moving view. Both have live tuning, optional postage, checkpoint retry and a whole New crossing. On Android, use Full screen and landscape. These are unranked design experiments; Gray's verdict is pending. The homepage and earlier previews keep their existing bytes.
+Choose Start flying. A uses hold/release thrust, slows into free flight at Tea Post, then resumes auto at the green departure gateway. B retains left/right/thrust against an independent moving view. Both have live tuning, a smooth 50–150% Scroll speed slider, optional postage, checkpoint retry and a whole New crossing. On Android, use Full screen and landscape. These are unranked design experiments; Gray's verdict is pending. The homepage and earlier previews keep their existing bytes.
 
-Private source `821101c`; tested compiled HTML SHA-256 `a468a55f4210aa7dbbfabb1c74b26febd0f9026e876ce25369a8f71be1046120`.
+Private source `ab4cac1`; tested compiled HTML SHA-256 `7295ff1e1e49e368285568434e6f4d8f9022035419a0019bd024d22d8fae2c9d`.
 
 **Quick visual comparison:** https://grahamherridge.github.io/skybound-play/oak-trial/ repeats and mirrors the existing oak through Big Sky. Larger copies fill the climb and descent; they are background decoration only. No new artwork or gameplay changes. The normal playable remains the facade release described below. Trial source `d6310ab`; compiled HTML SHA-256 `b9cfa296c4ed43f4a5bac92fbf38554afd5dacc2863e9df6ff3b7a1eaa376bee`.
 
