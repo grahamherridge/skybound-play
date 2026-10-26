@@ -2,11 +2,11 @@
 
 Play: https://grahamherridge.github.io/skybound-play/
 
-Choose **Big sky** to review Living World IV: the Workshop Yard's illustrated Sky Post now fits its existing solid wall exactly, with a bare flat roof you can land on. Timber, cream plaster, terracotta and copper sit beneath the preserved Foldwood oak and animated wren. The smaller, softer greenhouse remains distant scenery. Geometry, flight, stamps, checkpoints and scoring are unchanged. Private art/full-screen PRs remain unmerged; Gray's play-test verdict on this building is pending.
+Choose **Big sky** to review Living World IV: the Workshop Yard's illustrated Sky Post now fits its existing solid wall exactly, with a bare flat roof you can land on. Lighter honey timber, cream plaster, muted terracotta and soft gouache shading sit beneath the preserved Foldwood oak and animated wren. The smaller, softer greenhouse remains distant scenery. Geometry, flight, stamps, checkpoints and scoring are unchanged. Private art/full-screen PRs remain unmerged; Gray found the first facade incongruous; his verdict on this softer revision is pending.
 
 A/D or arrows steer; hold Space to thrust, release to coast; R retries. Touch controls are provided. **Full screen** beside Pause expands the game and controls together; **Exit full screen** returns to the page. Portrait and landscape keep the full scene in proportion. On phones, landscape provides the largest flight view. Browser/system exit is also supported. Watch the wren for about ten seconds, approach gently, or swoop past and let it settle again.
 
-This release retains mobile full-screen support, the authored Perilous Parish flight and all existing selectable modes. Compiled from private source revision `b4c05e3`. The self-contained offline HTML has SHA-256 `151e850d8c4ae6f545c4ebbd98c8930cc09186dda6d58e0e0086f2fb97866b19`. Verified real-input desktop/phone wall contact and roof landing, first stamp, wren behaviour, pause and reduced motion. The physical-device and artistic acceptance remain Gray's to judge.
+This release retains mobile full-screen support, the authored Perilous Parish flight and all existing selectable modes. Compiled from private source revision `2561067`. The self-contained offline HTML has SHA-256 `ba9cdbf4c54442154556dd3c10b48a4934a4cae14855ac9f9a69ade70af6533e`. Verified real-input desktop/phone wall contact and roof landing, first stamp, wren behaviour, pause and reduced motion. The physical-device and artistic acceptance remain Gray's to judge.
 
 ## Preserved experiments
 
