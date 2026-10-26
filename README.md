@@ -2,6 +2,13 @@
 
 Play: https://grahamherridge.github.io/skybound-play/
 
+**Flight Experiments — isolated A/B preview:**
+[Auto-forward + Free Flight](https://grahamherridge.github.io/skybound-play/flight-experiments/) ·
+[Moving Camera + Original Controls](https://grahamherridge.github.io/skybound-play/flight-experiments/?course=camera).
+Choose Start flying. A uses hold/release thrust, slows into free flight at Tea Post, then resumes auto at the green departure gateway. B retains left/right/thrust against an independent moving view. Both have live tuning, optional postage, checkpoint retry and a whole New crossing. On Android, use Full screen and landscape. These are unranked design experiments; Gray's verdict is pending. The homepage and earlier previews keep their existing bytes.
+
+Private source `afc9e6a`; tested compiled HTML SHA-256 `765d5eeaa2771879bca2e7900b120f49a4ddcb176a343597ae41c8fbe27247da`.
+
 **Quick visual comparison:** https://grahamherridge.github.io/skybound-play/oak-trial/ repeats and mirrors the existing oak through Big Sky. Larger copies fill the climb and descent; they are background decoration only. No new artwork or gameplay changes. The normal playable remains the facade release described below. Trial source `d6310ab`; compiled HTML SHA-256 `b9cfa296c4ed43f4a5bac92fbf38554afd5dacc2863e9df6ff3b7a1eaa376bee`.
 
 Choose **Big sky** to review Living World IV: the Workshop Yard's illustrated Sky Post now fits its existing solid wall exactly, with a bare flat roof you can land on. Lighter honey timber, cream plaster, muted terracotta and soft gouache shading sit beneath the preserved Foldwood oak and animated wren. The smaller, softer greenhouse remains distant scenery. Geometry, flight, stamps, checkpoints and scoring are unchanged. Private art/full-screen PRs remain unmerged; Gray found the first facade incongruous; his verdict on this softer revision is pending.
