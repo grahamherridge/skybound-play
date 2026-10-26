@@ -2,6 +2,8 @@
 
 Play: https://grahamherridge.github.io/skybound-play/
 
+**Quick visual comparison:** https://grahamherridge.github.io/skybound-play/oak-trial/ repeats and mirrors the existing oak through Big Sky. Larger copies fill the climb and descent; they are background decoration only. No new artwork or gameplay changes. The normal playable remains the facade release described below. Trial source `d6310ab`; compiled HTML SHA-256 `b9cfa296c4ed43f4a5bac92fbf38554afd5dacc2863e9df6ff3b7a1eaa376bee`.
+
 Choose **Big sky** to review Living World IV: the Workshop Yard's illustrated Sky Post now fits its existing solid wall exactly, with a bare flat roof you can land on. Lighter honey timber, cream plaster, muted terracotta and soft gouache shading sit beneath the preserved Foldwood oak and animated wren. The smaller, softer greenhouse remains distant scenery. Geometry, flight, stamps, checkpoints and scoring are unchanged. Private art/full-screen PRs remain unmerged; Gray found the first facade incongruous; his verdict on this softer revision is pending.
 
 A/D or arrows steer; hold Space to thrust, release to coast; R retries. Touch controls are provided. **Full screen** beside Pause expands the game and controls together; **Exit full screen** returns to the page. Portrait and landscape keep the full scene in proportion. On phones, landscape provides the largest flight view. Browser/system exit is also supported. Watch the wren for about ten seconds, approach gently, or swoop past and let it settle again.
