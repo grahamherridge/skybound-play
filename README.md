@@ -7,7 +7,7 @@ Play: https://grahamherridge.github.io/skybound-play/
 [Moving Camera + Original Controls](https://grahamherridge.github.io/skybound-play/flight-experiments/?course=camera).
 Choose Start flying. A uses hold/release thrust, slows into free flight at Tea Post, then resumes auto at the green departure gateway. B retains left/right/thrust against an independent moving view. Both have live tuning, optional postage, checkpoint retry and a whole New crossing. On Android, use Full screen and landscape. These are unranked design experiments; Gray's verdict is pending. The homepage and earlier previews keep their existing bytes.
 
-Private source `afc9e6a`; tested compiled HTML SHA-256 `765d5eeaa2771879bca2e7900b120f49a4ddcb176a343597ae41c8fbe27247da`.
+Private source `821101c`; tested compiled HTML SHA-256 `a468a55f4210aa7dbbfabb1c74b26febd0f9026e876ce25369a8f71be1046120`.
 
 **Quick visual comparison:** https://grahamherridge.github.io/skybound-play/oak-trial/ repeats and mirrors the existing oak through Big Sky. Larger copies fill the climb and descent; they are background decoration only. No new artwork or gameplay changes. The normal playable remains the facade release described below. Trial source `d6310ab`; compiled HTML SHA-256 `b9cfa296c4ed43f4a5bac92fbf38554afd5dacc2863e9df6ff3b7a1eaa376bee`.
 
